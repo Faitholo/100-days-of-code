@@ -6,7 +6,7 @@
 
 **Thoughts:** I honestly had so many syntax errors and it didnt work at first, but after a long time of trial and errors, it worked!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Grapical representation](https://github.com/Faitholo/100DaysOfCode/blob/main/matplot.py)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
