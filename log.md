@@ -8,14 +8,13 @@
 
 **Link to work:** [Grapical representation](https://github.com/Faitholo/100DaysOfCode/blob/main/matplot.py)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I wrote a Python script that asked for user's input.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really got frustrated about 60% of the time I tried to write this code. In the end, I realised that basic syntax errors will be a challenge I'll overcome from continuous practice.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Guess the Lucky Number](https://github.com/Faitholo/100DaysOfCode/blob/main/basic_user_input.py)
 
 
 ### Day 1: June 27, Monday
