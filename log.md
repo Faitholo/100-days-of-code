@@ -17,12 +17,16 @@
 **Link(s) to work**: [Guess the Lucky Number](https://github.com/Faitholo/100DaysOfCode/blob/main/basic_user_input.py)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 3, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I got my dual boot working.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started coding, and was interested in using a Linux os on my Windows pc. After long hours of trying, I was able to setup the Ubuntu 20.04LTS Linux distro on my Windows 10 pc.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 3: January 4, 2022
+
+**Today's Progress**: I continued with matplotlib.
+
+**Thoughts** There's so much that can be done with a powerful library. Matplotlib has been a great one to work with. Today, I made a scattered plot and a Histogram.
+**Link(s) to work**: [histogram](https://Faitholo/100DaysOfCode)
