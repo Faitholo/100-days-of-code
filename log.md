@@ -29,4 +29,4 @@
 **Today's Progress**: I continued with matplotlib.
 
 **Thoughts** There's so much that can be done with a powerful library. Matplotlib has been a great one to work with. Today, I made a scattered plot and a Histogram.
-**Link(s) to work**: [histogram](https://Faitholo/100DaysOfCode/matplot.py)
+**Link(s) to work**: [histogram](https://github.com/Faitholo/100DaysOfCode/blob/main/matplot.py)
